@@ -1,2 +1,5 @@
 # statistical-rethinking-numpyro
-Statistical Rethinking (exercises and code snippets) using Numpyro
+Implementing Statistical Rethinking (Bayesian Couse) exercises and code snippets using Numpyro 
+
+https://xcelab.net/rm/
+https://github.com/rmcelreath/stat_rethinking_2023
